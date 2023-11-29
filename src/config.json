@@ -1,0 +1,18 @@
+{
+  "apiUrlUsersLogin": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users/login",
+  "apiUrlUsersRegister": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users",
+  "apiUrlUserById": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users/",
+  "apiUrlAllUser": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users",
+  "apiUrlUpdateUser": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users/",
+  "apiUrlDeleteUser": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users/",
+  "apiUrlUserBusiness": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/users/",
+
+  "apiUrlAllCards": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards",
+  "apiUrlCardById": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards/",
+  "apiUrlAllMyCards": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards/my-cards",
+  "apiUrlCreateCard": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards",
+  "apiUrlUpdateCard": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards/",
+  "apiUrlLikeCard": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards/",
+  "apiUrlCardsBizNumber": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards/",
+  "apiUrlDeleteCard": "https://monkfish-app-z9uza.ondigitalocean.app/bcard2/cards/"
+}
