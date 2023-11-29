@@ -44,7 +44,7 @@ This project involves the development of a web application designed for business
 
 - **Responsive Design**: Using Bootstrap library.
 - **Icon Usage**: Incorporates icons from Bootstrap .
-- **SCSS for Styling**: Ensures a modular and organized approach to CSS.
+- **CSS for Styling**: Ensures a modular and organized approach to CSS.
 
 ## Reflection
 
